@@ -1,8 +1,8 @@
-Regression-Modeling-Experiment
+**Regression-Modeling-Experiment**
 
 This repository contains a series of experiments to explore and compare different regression models, including a basic linear regression model and flexible models with polynomial features. The focus is on evaluating how model flexibility affects prediction accuracy, using Mean Squared Error (MSE) as the performance metric.
 
-Overview
+**Overview**
 
 The code generates synthetic data with five input features and a response variable that is a linear combination of these features, with some added noise. It then applies three regression models:
 	1.	Linear Model: Basic linear regression using the least squares method.
@@ -11,7 +11,7 @@ The code generates synthetic data with five input features and a response variab
 
 The models are evaluated using training and test data, and the Mean Squared Error (MSE) is calculated for each model. A plot is generated to visualize the impact of increasing flexibility on model performance.
 
-Features
+**Features**
 
 * Data Generation: The dataset consists of 1,000 observations with 5 input features, generated using a mix of uniform, normal, and exponential distributions.
 * Least Squares Regression: Implements the least squares method to compute regression coefficients.
@@ -19,13 +19,13 @@ Features
 * MSE Evaluation: Calculates MSE for both the training and test datasets for each model to evaluate their performance.
 * Visualization: A plot comparing test MSE values for each model, showing the relationship between model flexibility and prediction accuracy.
 
-Requirements
+**Requirements**
 
 * Python 3.x
 * NumPy
 * Matplotlib
 
-Installation
+**Installation**
 
 Clone this repository:
  
@@ -35,7 +35,7 @@ Clone this repository:
   
       pip install numpy matplotlib
 
- Usage
+** Usage**
 
 1.Navigate to the directory containing the script.
 
@@ -43,11 +43,11 @@ Clone this repository:
  
       python regression_modeling.py
 
-  Results
+**  Results**
 
 The script will output the Mean Squared Error (MSE) for the training and test sets for each model, and it will display a plot comparing the test MSE values of the three models.
 
-License
+**License**
 
 This project is licensed under the MIT License.
    
