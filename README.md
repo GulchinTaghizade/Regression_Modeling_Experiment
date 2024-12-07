@@ -35,7 +35,7 @@ Clone this repository:
   
       pip install numpy matplotlib
 
-** Usage**
+**Usage**
 
 1.Navigate to the directory containing the script.
 
@@ -43,11 +43,19 @@ Clone this repository:
  
       python regression_modeling.py
 
-**  Results**
+**Results**
 
 The script will output the Mean Squared Error (MSE) for the training and test sets for each model, and it will display a plot comparing the test MSE values of the three models.
 
 **License**
 
 This project is licensed under the MIT License.
+
+**Additional Information**
+
+This project was developed as part of the Math for Machine Learning course to demonstrate the application of linear regression with varying degrees of model flexibility.
+
+**Author**
+
+Gulchin Taghizade
    
