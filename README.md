@@ -1,4 +1,4 @@
-## Regression-Modeling-Experiment
+## Regression Modeling Experiment
 
 This repository contains a series of experiments to explore and compare different regression models, including a basic linear regression model and flexible models with polynomial features. The focus is on evaluating how model flexibility affects prediction accuracy, using Mean Squared Error (MSE) as the performance metric.
 
