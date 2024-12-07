@@ -38,6 +38,7 @@ Clone this repository:
  Usage
 
 1.Navigate to the directory containing the script.
+
 2.Run the Python script to generate the dataset, train the models, and plot the results:
  
       python regression_modeling.py
