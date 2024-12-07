@@ -35,13 +35,21 @@ Clone this repository:
   
       pip install numpy matplotlib
 
-**Usage**
+## Usage
 
-1.Navigate to the directory containing the script.
+The main file is `ProjectForMathML.ipynb` for interactive execution in Google Colab, but you can also run the logic through the standalone Python script `FinalProject.py`.
 
-2.Run the Python script to generate the dataset, train the models, and plot the results:
- 
-      python regression_modeling.py
+1. Open the project in Google Colab:
+    [ProjectForMathML.ipynb](https://colab.research.google.com/github/yourusername/flexible-linear-regression/blob/main/ProjectForMathML.ipynb)
+
+2. Or, run the Python script locally:
+    ```bash
+    python FinalProject.py
+    ```
+
+The Python script will perform the same analysis as the notebook, including the creation of linear regression models and calculation of MSE.
+
+
 
 **Results**
 
