@@ -29,7 +29,7 @@ The models are evaluated using training and test data, and the Mean Squared Erro
 
 Clone this repository:
  
-       git clone https://github.com/your-username/Regression-Modeling-Experiment.git
+    https://github.com/GulchinTaghizade/Regression_Modeling_Experiment.git
        
  Install the necessary dependencies:
   
@@ -40,7 +40,7 @@ Clone this repository:
 The main file is `ProjectForMathML.ipynb` for interactive execution in Google Colab, but you can also run the logic through the standalone Python script `FinalProject.py`.
 
 1. Open the project in Google Colab:
-    [ProjectForMathML.ipynb](https://colab.research.google.com/github/yourusername/flexible-linear-regression/blob/main/ProjectForMathML.ipynb)
+    [ProjectForMathML.ipynb](https://colab.research.google.com/github/GulchinTaghizade/Regression_Modeling_Experiment/blob/main/ProjectForMathML.ipynb)
 
 2. Or, run the Python script locally:
     ```bash
