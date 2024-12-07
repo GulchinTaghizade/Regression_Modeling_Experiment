@@ -13,29 +13,33 @@ The models are evaluated using training and test data, and the Mean Squared Erro
 
 Features
 
-	•	Data Generation: The dataset consists of 1,000 observations with 5 input features, generated using a mix of uniform, normal, and exponential distributions.
-	•	Least Squares Regression: Implements the least squares method to compute regression coefficients.
-	•	Model Flexibility: Three levels of model flexibility are compared by adding polynomial terms to the feature set.
-	•	MSE Evaluation: Calculates MSE for both the training and test datasets for each model to evaluate their performance.
-	•	Visualization: A plot comparing test MSE values for each model, showing the relationship between model flexibility and prediction accuracy.
+* Data Generation: The dataset consists of 1,000 observations with 5 input features, generated using a mix of uniform, normal, and exponential distributions.
+* Least Squares Regression: Implements the least squares method to compute regression coefficients.
+* Model Flexibility: Three levels of model flexibility are compared by adding polynomial terms to the feature set.
+* MSE Evaluation: Calculates MSE for both the training and test datasets for each model to evaluate their performance.
+* Visualization: A plot comparing test MSE values for each model, showing the relationship between model flexibility and prediction accuracy.
 
 Requirements
 
-	•	Python 3.x
-	•	NumPy
-	•	Matplotlib
+* Python 3.x
+* NumPy
+* Matplotlib
 
 Installation
 
-	1.	Clone this repository:
+Clone this repository:
+ 
        git clone https://github.com/your-username/Regression-Modeling-Experiment.git
- 	2.	Install the necessary dependencies:
+       
+ Install the necessary dependencies:
+  
       pip install numpy matplotlib
 
  Usage
 
-	1.	Navigate to the directory containing the script.
-	2.	Run the Python script to generate the dataset, train the models, and plot the results:
+1.Navigate to the directory containing the script.
+2.Run the Python script to generate the dataset, train the models, and plot the results:
+ 
       python regression_modeling.py
 
   Results
